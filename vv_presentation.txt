@@ -1,0 +1,7 @@
+flash, flumotion, freedom, google, gpl, gstreamer, H.264, html5, mpeg-la, ogg, video conference, theora, vorbis, vp8, webm, xiph, webrtc, software patents, streaming
+
+Getting a video feed on to the internets has become more and more common (and possible), We talk today about streaming for many things and actually it happens all the time on our browsers. What are the codecs compression and decompression algorithms being used?
+
+"With pens and typewriters you think you know how it works, how 'it responds'. Whereas with computers, even if people know how to use them up to a point, they rarely know, intuitively and without thinking---at any rate, I don't know---how the internal demon of the apparatus operates. What rules it obeys. This secret with no mystery frequently marks our dependence in the relation to many instruments off modern technology. We know how to use them and what they are for, without knowing what goes on with them, in then on their side. J.Derrida on "The word processor"
+
+
