@@ -1,7 +1,11 @@
-flash, flumotion, freedom, google, gpl, gstreamer, H.264, html5, mpeg-la, ogg, video conference, theora, vorbis, vp8, webm, xiph, webrtc, software patents, streaming
-
-Getting a video feed on to the internets has become more and more common (and possible), We talk today about streaming for many things and actually it happens all the time on our browsers. What are the codecs compression and decompression algorithms being used?
+Getting a video feed on to the internets has become both more common and possible. Same thing has happened to the way all our bases belong to companies that co-opt our contents starting at the level of the video encoding process. We talk today about streaming for work as in video conference as for pleasure as on watching some movie or sports but even more so to share a revolution and get it to scale up significantly. Most of it just taking place on our browsers. If we want to get to understand whats happening silently behind each click and tcp/ip packet sent or received is then valid to start asking ourselves for things like what are the compression and decompression algorithms in use on such transport layers. Who is behind? Valid questions if we are to think of the web as a place for free information exchange. (depict the puffs of smoke around a campfire).
 
 "With pens and typewriters you think you know how it works, how 'it responds'. Whereas with computers, even if people know how to use them up to a point, they rarely know, intuitively and without thinking---at any rate, I don't know---how the internal demon of the apparatus operates. What rules it obeys. This secret with no mystery frequently marks our dependence in the relation to many instruments off modern technology. We know how to use them and what they are for, without knowing what goes on with them, in then on their side. J.Derrida on "The word processor"
 
+To the technological society we are embeded. Abbreviations become our common slang:
+
+GPL, gstreamer, H.264, html5, mpeg-la, ogg, theora, vorbis, vp8, webm, xiph, webrtc, streaming, flash, etc.
+
+---------
+On that manic will for compression, speed and hijacking. The Codec Wars:
 
