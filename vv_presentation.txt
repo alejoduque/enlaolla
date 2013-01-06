@@ -10,3 +10,5 @@ Getting a video feed on to the internets has become both more common and possibl
 "With pens and typewriters you think you know how it works, how 'it responds'. Whereas with computers, even if people know how to use them up to a point, they rarely know, intuitively and without thinking---at any rate, I don't know---how the internal demon of the apparatus operates. What rules it obeys. This secret with no mystery frequently marks our dependence in the relation to many instruments off modern technology. We know how to use them and what they are for, without knowing what goes on with them, in then on their side. J.Derrida on "The word processor"
 
 If we want to get to understand whats happening silently behind each click and tcp/ip packet sent or received is then valid to start asking ourselves for things like what are the compression and decompression algorithms in use on such transport layers. Who is behind? Valid questions if we are to think of the web as a place for free information exchange. (depict the puffs of smoke around a campfire).
+
+
